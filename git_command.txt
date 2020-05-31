@@ -1,0 +1,43 @@
+$ git clone url
+
+$ ls
+ 
+$ cd number-game/
+
+$ git pull
+
+$ clear
+
+$ cat text.txt		for content
+
+$ git status
+
+$ git add     ---- staging area
+
+$ git commit -m "test"
+
+$ git push origin master
+
+$ git remote -v
+
+$ git init
+
+$ git add README.md
+
+$ git add .
+
+$ git add --all
+
+$ git branch
+
+$ git branch testing
+
+$ git checkout testing
+
+$ git checkout -b developementbranch
+
+$ git branch -m developementbranch developemet
+
+$ git merge master
+
+$ git log
